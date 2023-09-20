@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/amazingalek/owml/master/schemas/manifest_schema.json",
+  "filename": "ArabicTranslation.dll",
+  "author": "amz11z",
+  "name": "Arabic Translation",
+  "uniqueName": "amz11z.ArabicTranslation",
+  "version": "0.1.0",
+  "owmlVersion": "2.5.2",
+  "dependencies": ["xen.LocalizationUtility"]
+}

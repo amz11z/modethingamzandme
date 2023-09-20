@@ -1,0 +1,5 @@
+﻿<Project>
+  <PropertyGroup>
+    <OutputPath>$(AppData)\OuterWildsModManager\OWML\Mods\amz11z.ArabicTranslation</OutputPath>
+  </PropertyGroup>
+</Project>
